@@ -1,94 +1,98 @@
-[
-    {
-        "id": 1,
-        "product_name": "Apple Air Buds",
-        "category": "earphones",
-        "category_id": 1,
-        "Price": 11000,
-        "Size": "Small",
-        "Image": "https://ibb.co/QfnG03s",
-        "Color": "White",
-        "Brand": "Apple"
-    },
-    {
-        "id": 2,
-        "product_name": "Noice Air Buds",
-        "category": "earphones",
-        "category_id": 1,
-        "Price": 1400,
-        "Size": "Small",
-        "Image": "https://ibb.co/tHDtvK1",
-        "Color": "Black",
-        "Brand": "Noice"
-    },
-    {
-        "id": 3,
-        "product_name": "Boat Air Buds",
-        "category": "earphones",
-        "category_id": 1,
-        "Price": 1100,
-        "Image": "https://ibb.co/7GZQ2B2", 
-        "Color": "Black",
-        "company": "Boat"
-    },
-    {
-        "id": 4,
-        "product_name": "Helios Predator",
-        "category": "Laptop",
-        "category_id": 2,
-        "Price": 99999,
-        "Image":"https://ibb.co/f1PwhkJ",
-        "Color": "Black",
-        "company": "Acer"
-    },
-    {
-        "id": 5,
-        "product_name": "Dell",
-        "category": "Laptop",
-        "category_id": 2,
-        "Price": 60000,
-        "Image":"https://ibb.co/gVsVWJj",
-        "Color": "Black",
-        "company": "Dell"
-    },
-    {
-        "id": 6,
-        "product_name": "Lenovo",
-        "category": "Laptop",
-        "category_id": 2,
-        "Price": 50000,
-        "Image":"https://ibb.co/K9vjC2N",
-        "Color": "Gray",
-        "company": "Lenovo"
-    },
-    {
-        "id": 7,
-        "product_name": "Apple 12pro",
-        "category": "Mobile",
-        "category_id": 3,
-        "Price": 100000,
-        "Image":"https://ibb.co/h8cjfPq",
-        "Color": "Gray",
-        "company": "Apple"
-    },
-    {
-        "id": 8,
-        "product_name": "samsung",
-        "category": "Mobile",
-        "category_id": 3,
-        "Price": 20000,
-        "Image":"https://ibb.co/6Bpq2jt",
-        "Color": "White",
-        "company": "samsung"
-    },
-    {
-        "id": 9,
-        "product_name": "redmi",
-        "category": "Mobile",
-        "category_id": 3,
-        "Price": 18000,
-        "Image":"https://ibb.co/xStWSsH",
-        "Color": "White",
-        "company": "black"
-    }
-]
+
+{
+    "Products":[
+        {
+            "id": 1,
+            "product_name": "Apple Air Buds",
+            "category": "earphones",
+            "category_id": 1,
+            "Price": 11000,
+            "Size": "Small",
+            "Image": "https://ibb.co/QfnG03s",
+            "Color": "White",
+            "Brand": "Apple"
+        },
+        {
+            "id": 2,
+            "product_name": "Noice Air Buds",
+            "category": "earphones",
+            "category_id": 1,
+            "Price": 1400,
+            "Size": "Small",
+            "Image": "https://ibb.co/tHDtvK1",
+            "Color": "Black",
+            "Brand": "Noice"
+        },
+        {
+            "id": 3,
+            "product_name": "Boat Air Buds",
+            "category": "earphones",
+            "category_id": 1,
+            "Price": 1100,
+            "Image": "https://ibb.co/7GZQ2B2", 
+            "Color": "Black",
+            "company": "Boat"
+        },
+        {
+            "id": 4,
+            "product_name": "Helios Predator",
+            "category": "Laptop",
+            "category_id": 2,
+            "Price": 99999,
+            "Image":"https://ibb.co/f1PwhkJ",
+            "Color": "Black",
+            "company": "Acer"
+        },
+        {
+            "id": 5,
+            "product_name": "Dell",
+            "category": "Laptop",
+            "category_id": 2,
+            "Price": 60000,
+            "Image":"https://ibb.co/gVsVWJj",
+            "Color": "Black",
+            "company": "Dell"
+        },
+        {
+            "id": 6,
+            "product_name": "Lenovo",
+            "category": "Laptop",
+            "category_id": 2,
+            "Price": 50000,
+            "Image":"https://ibb.co/K9vjC2N",
+            "Color": "Gray",
+            "company": "Lenovo"
+        },
+        {
+            "id": 7,
+            "product_name": "Apple 12pro",
+            "category": "Mobile",
+            "category_id": 3,
+            "Price": 100000,
+            "Image":"https://ibb.co/h8cjfPq",
+            "Color": "Gray",
+            "company": "Apple"
+        },
+        {
+            "id": 8,
+            "product_name": "samsung",
+            "category": "Mobile",
+            "category_id": 3,
+            "Price": 20000,
+            "Image":"https://ibb.co/6Bpq2jt",
+            "Color": "White",
+            "company": "samsung"
+        },
+        {
+            "id": 9,
+            "product_name": "redmi",
+            "category": "Mobile",
+            "category_id": 3,
+            "Price": 18000,
+            "Image":"https://ibb.co/xStWSsH",
+            "Color": "White",
+            "company": "black"
+        }
+    ]
+}
+
