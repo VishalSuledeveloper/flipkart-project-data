@@ -7,7 +7,6 @@
             "category": "earphones",
             "category_id": 1,
             "Price": 11000,
-            "Size": "Small",
             "Image": "https://ibb.co/QfnG03s",
             "Color": "White",
             "Brand": "Apple"
@@ -18,7 +17,6 @@
             "category": "earphones",
             "category_id": 1,
             "Price": 1400,
-            "Size": "Small",
             "Image": "https://ibb.co/tHDtvK1",
             "Color": "Black",
             "Brand": "Noice"
