@@ -7,7 +7,7 @@
             "category": "earphones",
             "category_id": 1,
             "Price": 11000,
-            "Image": "https://ibb.co/QfnG03s",
+            "Image": "https://i.ibb.co/Fqn86LF/Apple-air-buds.jpg",
             "Color": "White",
             "Brand": "Apple"
         },
@@ -17,7 +17,7 @@
             "category": "earphones",
             "category_id": 1,
             "Price": 1400,
-            "Image": "https://ibb.co/tHDtvK1",
+            "Image": "https://i.ibb.co/HBf12kW/noice-air-buds.png",
             "Color": "Black",
             "Brand": "Noice"
         },
@@ -27,7 +27,7 @@
             "category": "earphones",
             "category_id": 1,
             "Price": 1100,
-            "Image": "https://ibb.co/7GZQ2B2", 
+            "Image": "https://i.ibb.co/v1LY2hq/boat-air-buds.jpg", 
             "Color": "Black",
             "company": "Boat"
         },
@@ -37,7 +37,7 @@
             "category": "Laptop",
             "category_id": 2,
             "Price": 99999,
-            "Image":"https://ibb.co/f1PwhkJ",
+            "Image":"https://i.ibb.co/4WqZmHt/laptop-helios-predator.jpg",
             "Color": "Black",
             "company": "Acer"
         },
@@ -47,7 +47,7 @@
             "category": "Laptop",
             "category_id": 2,
             "Price": 60000,
-            "Image":"https://ibb.co/gVsVWJj",
+            "Image":"https://i.ibb.co/9gsYT8Q/laptop-Dell.jpg",
             "Color": "Black",
             "company": "Dell"
         },
@@ -57,7 +57,7 @@
             "category": "Laptop",
             "category_id": 2,
             "Price": 50000,
-            "Image":"https://ibb.co/K9vjC2N",
+            "Image":"https://i.ibb.co/qkQQdv5/laptop-Lenovo.jpg",
             "Color": "Gray",
             "company": "Lenovo"
         },
@@ -67,7 +67,7 @@
             "category": "Mobile",
             "category_id": 3,
             "Price": 100000,
-            "Image":"https://ibb.co/h8cjfPq",
+            "Image":"https://i.ibb.co/x3PccX6/Apple.jpg",
             "Color": "Gray",
             "company": "Apple"
         },
@@ -77,7 +77,7 @@
             "category": "Mobile",
             "category_id": 3,
             "Price": 20000,
-            "Image":"https://ibb.co/6Bpq2jt",
+            "Image":"https://i.ibb.co/9W6T58H/samsung.webp",
             "Color": "White",
             "company": "samsung"
         },
@@ -87,7 +87,7 @@
             "category": "Mobile",
             "category_id": 3,
             "Price": 18000,
-            "Image":"https://ibb.co/xStWSsH",
+            "Image":"https://i.ibb.co/8n3ysGP/redmi.jpg",
             "Color": "White",
             "company": "black"
         }

@@ -1,20 +1,17 @@
 
 {
-  "Category":[
-    [
-        {
-            "id":1,
-            "category": "earphones"
-        },
-        {
-            "id":2,
-            "category":"Laptop"
-        },
-        {
-            "id":3,
-            "category":"Mobile"
-        }
-    ]
-    
-  ]  
+  "Category":  [
+    {
+        "id":1,
+        "category": "earphones"
+    },
+    {
+        "id":2,
+        "category":"Laptop"
+    },
+    {
+        "id":3,
+        "category":"Mobile"
+    }
+]
 }
