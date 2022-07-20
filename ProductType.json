@@ -1,0 +1,26 @@
+db.Product_Type.insert(
+[
+       
+          {
+              "id":1,
+              "category": "earphones",
+              "Content":"Very Nice Product",
+              "Image": "https://i.ibb.co/Fqn86LF/Apple-air-buds.jpg"
+          },
+          {
+              "id":2,
+              "category":"Laptop",
+              "content": "Nice Laptops",
+              "Image":"https://i.ibb.co/4WqZmHt/laptop-helios-predator.jpg"
+          },
+          {
+              "id":3,
+              "category":"Mobile",
+              "content": "Trending Mobiles",
+              "Image":"https://i.ibb.co/9W6T58H/samsung.webp"
+          }
+      
+      
+    ]
+)
+
