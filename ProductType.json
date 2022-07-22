@@ -2,20 +2,23 @@ db.Product_Type.insert(
 [
        
           {
-              "id":1,
+              "ProductId":1,
+              "category_id":1,
               "category": "earphones",
               "Content":"Very Nice Product",
               "Image": "https://i.ibb.co/Fqn86LF/Apple-air-buds.jpg"
           },
           {
-              "id":2,
-              "category":"Laptop",
+              "ProductId":2,
+              "category_id":2,
+              "category":"Laptops",
               "content": "Nice Laptops",
               "Image":"https://i.ibb.co/4WqZmHt/laptop-helios-predator.jpg"
           },
           {
-              "id":3,
-              "category":"Mobile",
+              "ProductId":3,
+              "category_id":4,
+              "category":"Mobiles",
               "content": "Trending Mobiles",
               "Image":"https://i.ibb.co/9W6T58H/samsung.webp"
           }

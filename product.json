@@ -1,96 +1,381 @@
-
-{
-    "Products":[
+db.product.insert(
+[
         {
             "id": 1,
+            "brand":[
+                {
+                    "brandID":1,
+                    "brandName":"Apple"
+                }
+            ],
             "product_name": "Apple Air Buds",
             "category": "earphones",
             "category_id": 1,
-            "Price": 11000,
+            "cost":11000,
+            "cost":[
+                {
+                    "costID":1,
+                    "ProductName": "Apple Air Buds"
+                }
+                    ],
             "Image": "https://i.ibb.co/Fqn86LF/Apple-air-buds.jpg",
             "Color": "White",
             "Brand": "Apple"
         },
         {
             "id": 2,
+            "brand":[
+                {
+                    "brandID":1,
+                    "brandName":"Apple"
+                }
+            ],
+            "product_name": "Apple Air Buds",
+            "category": "earphones",
+            "category_id": 1,
+            "cost":11000,
+            "cost":[
+                {
+                    "costID":1,
+                    "ProductName": "Apple Air Buds"
+                }
+            ],
+            "Image": "https://i.ibb.co/Fqn86LF/Apple-air-buds.jpg",
+            "Color": "White",
+            "Brand": "Apple"
+        },
+        {
+            "id": 3,
+            "brand":[
+                {
+                    "brandID":1,
+                    "brandName":"Apple"
+                }
+            ],
+            "product_name": "Apple Air Buds",
+            "category": "earphones",
+            "category_id": 1,
+            "cost":11000,
+            "cost":[
+                {
+                    "costID":1,
+                    "ProductName": "Apple Air Buds"
+                }
+            ],
+            "Image": "https://i.ibb.co/Fqn86LF/Apple-air-buds.jpg",
+            "Color": "Black",
+            "Brand": "Apple"
+        },
+        
+        {
+            "id": 4,
+            "brand":[
+                {
+                    "brandID":2,
+                    "brandName":"Noice"
+                }
+            ],
             "product_name": "Noice Air Buds",
             "category": "earphones",
             "category_id": 1,
-            "Price": 1400,
+            "cost":1400,
+            "cost":[
+                {
+                    "costID":2,
+                    "ProductName": "Noice Air Buds"
+                }
+            ],
+            "Image": "https://i.ibb.co/HBf12kW/noice-air-buds.png",
+            "Color": "Gray",
+            "Brand": "Noice"
+        },
+        {
+            "id": 5,
+            "brand":[
+                {
+                    "brandID":2,
+                    "brandName":"Noice"
+                }
+            ],
+            "product_name": "Noice Air Buds",
+            "category": "earphones",
+            "category_id": 1,
+            "cost":1400,
+            "cost":[
+                {
+                    "costID":2,
+                    "ProductName": "Noice Air Buds"
+                }
+            ],
             "Image": "https://i.ibb.co/HBf12kW/noice-air-buds.png",
             "Color": "Black",
             "Brand": "Noice"
         },
         {
-            "id": 3,
+            "id": 6,
+            "brand":[
+                {
+                    "brandID":3,
+                    "brandName":"Boat"
+                }
+            ],
             "product_name": "Boat Air Buds",
             "category": "earphones",
             "category_id": 1,
-            "Price": 1100,
+            "category_id": 1,
+            "cost":1100,
+            "cost":[
+                {
+                    "costID":3,
+                    "ProductName": "Boat Air Buds"
+                }
+            ],
             "Image": "https://i.ibb.co/v1LY2hq/boat-air-buds.jpg", 
             "Color": "Black",
             "company": "Boat"
         },
         {
-            "id": 4,
+            "id": 7,
+            "brand":[
+                {
+                    "brandID":3,
+                    "brandName":"Boat"
+                }
+            ],
+            "product_name": "Boat Air Buds",
+            "category": "earphones",
+            "category_id": 1,
+            "cost":1100,
+            "cost":[
+                {
+                    "costID":3,
+                    "ProductName": "Boat Air Buds"
+                }
+            ],
+            "Image": "https://i.ibb.co/v1LY2hq/boat-air-buds.jpg", 
+            "Color": "White",
+            "company": "Boat"
+        },
+        {
+            "id": 8,
+            "brand":[
+                {
+                    "brandID":4,
+                    "brandName":"Acer"
+                }
+            ],
             "product_name": "Helios Predator",
             "category": "Laptop",
             "category_id": 2,
-            "Price": 99999,
+            "cost":99999,
+            "cost":[
+                {
+                    "costID":4,
+                    "ProductName": "Helios Predator"
+                }
+            ],
             "Image":"https://i.ibb.co/4WqZmHt/laptop-helios-predator.jpg",
             "Color": "Black",
             "company": "Acer"
         },
         {
-            "id": 5,
-            "product_name": "Dell",
+            "id": 9,
+            "brand":[
+                {
+                    "brandID":4,
+                    "brandName":"Acer"
+                }
+            ],
+            "product_name": "Helios Predator",
             "category": "Laptop",
             "category_id": 2,
-            "Price": 60000,
+            "cost":99999,
+            "cost":[
+                {
+                    "costID":4,
+                    "ProductName": "Helios Predator"
+                }
+            ],
+            "Image":"https://i.ibb.co/4WqZmHt/laptop-helios-predator.jpg",
+            "Color": "Gray",
+            "company": "Acer"
+        },
+        {
+            "id": 10,
+            "brand":[
+                {
+                    "brandID":5,
+                    "brandName":"Dell"
+                }
+            ],
+            "product_name": "Dell Laptop",
+            "category": "Laptop",
+            "category_id": 2,
+            "cost":60000,
+            "cost":[
+                {
+                    "costID":5,
+                    "ProductName": "Dell Laptop"
+                }
+            ],
             "Image":"https://i.ibb.co/9gsYT8Q/laptop-Dell.jpg",
             "Color": "Black",
             "company": "Dell"
         },
         {
-            "id": 6,
-            "product_name": "Lenovo",
+            "id": 11,
+            "brand":[
+                {
+                    "brandID":5,
+                    "brandName":"Dell"
+                }
+            ],
+            "product_name": "Dell Laptop",
             "category": "Laptop",
             "category_id": 2,
-            "Price": 50000,
+            "cost":60000,
+            "cost":[
+                {
+                    "costID":5,
+                    "ProductName": "Dell Laptop"
+                }
+            ],
+            "Image":"https://i.ibb.co/9gsYT8Q/laptop-Dell.jpg",
+            "Color": "Gray",
+            "company": "Dell"
+        },
+        {
+            "id": 12,
+            "brand":[
+                {
+                    "brandID":6,
+                    "brandName":"Lenovo"
+                }
+            ],
+            "product_name": "Lenovo Laptop",
+            "category": "Laptop",
+            "category_id": 2,
+            "cost":50000,
+            "cost":[
+                {
+                    "costID":6,
+                    "ProductName": "Lenovo Laptop"
+                }
+            ],
             "Image":"https://i.ibb.co/qkQQdv5/laptop-Lenovo.jpg",
             "Color": "Gray",
             "company": "Lenovo"
         },
         {
-            "id": 7,
+            "id": 13,
+            "brand":[
+                {
+                    "brandID":6,
+                    "brandName":"Lenovo"
+                }
+            ],
+            "product_name": "Lenovo Laptop",
+            "category": "Laptop",
+            "category_id": 2,
+            "cost":50000,
+            "cost":[
+                {
+                    "costID":6,
+                    "ProductName": "Lenovo Laptop"
+                }
+            ],
+            "Image":"https://i.ibb.co/qkQQdv5/laptop-Lenovo.jpg",
+            "Color": "White",
+            "company": "Lenovo"
+        },
+        {
+            "id": 14,
+            "brand":[
+                {
+                    "brandID":6,
+                    "brandName":"Lenovo"
+                }
+            ],
+            "product_name": "Lenovo Laptop",
+            "category": "Laptop",
+            "category_id": 2,
+            "cost":50000,
+            "cost":[
+                {
+                    "costID":6,
+                    "ProductName": "Lenovo Laptop"
+                }
+            ],
+            "Image":"https://i.ibb.co/qkQQdv5/laptop-Lenovo.jpg",
+            "Color": "Black",
+            "company": "Lenovo"
+        },
+        {
+            "id": 15,
+            "brand":[
+                {
+                    "brandID":7,
+                    "brandName":"Apple"
+                }
+            ],
             "product_name": "Apple 12pro",
             "category": "Mobile",
             "category_id": 3,
-            "Price": 100000,
+            "cost":100000,
+            "cost":[
+                {
+                    "costID":7,
+                    "ProductName": "Apple 12 pro"
+                }
+            ],
             "Image":"https://i.ibb.co/x3PccX6/Apple.jpg",
             "Color": "Gray",
             "company": "Apple"
         },
         {
-            "id": 8,
-            "product_name": "samsung",
+            "id": 16,
+            "brand":[
+                {
+                    "brandID":8,
+                    "brandName":"samsung"
+                }
+            ],
+            "product_name": "samsung Mobile",
             "category": "Mobile",
             "category_id": 3,
-            "Price": 20000,
+            "cost":20000,
+            "cost":[
+                {
+                    "costID":8,
+                    "ProductName": "samsung"
+                }
+            ],
             "Image":"https://i.ibb.co/9W6T58H/samsung.webp",
             "Color": "White",
             "company": "samsung"
         },
         {
             "id": 9,
+            "brand":[
+                {
+                    "brandID":9,
+                    "brandName":"redmi"
+                }
+            ],
             "product_name": "redmi",
             "category": "Mobile",
             "category_id": 3,
-            "Price": 18000,
+            "cost":18000,
+            "cost":[
+                {
+                    "costID":9,
+                    "ProductName": "Redmi"
+                }
+            ],
             "Image":"https://i.ibb.co/8n3ysGP/redmi.jpg",
             "Color": "White",
             "company": "black"
         }
     ]
-}
+)
 

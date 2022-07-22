@@ -1,0 +1,51 @@
+db.cost.insert(
+[
+    {
+        "costId":1,
+        "ProductType":"Apple Aie buds",
+        "cost":11000
+    },
+    {
+        "costId":2,
+        "ProductType":"Noice Air Buds",
+        "cost":1400
+    },
+    
+    {
+        "costId":3,
+        "ProductType":"Boat Air Buds",
+        "cost":1100
+    },
+    {
+        "costId":4,
+        "ProductType":"Helios Predator",
+        "cost":99999
+    },
+    {
+        "costId":5,
+        "ProductType":"Dell Laptop",
+        "cost":60000
+    },
+    {
+        "costId":6,
+        "ProductType":"Lenovo Laptop",
+        "cost":50000
+    },
+    {
+        "costId":7,
+        "ProductType":"Apple 12 pro",
+        "cost":100000
+    },
+    {
+        "costId":8,
+        "ProductType":"samsung Mobile",
+        "cost":20000
+    },
+    {
+        "costId":9,
+        "ProductType":"Redmi",
+        "cost":18000
+    }
+    
+]
+)
